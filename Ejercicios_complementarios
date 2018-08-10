@@ -1,0 +1,37 @@
+run:
+Ingrese primer numero:
+3
+Ingrese segundo numero:
+1
+La suma es: 4
+La resta es: 2
+El producto es: 3
+La division es: 3
+Parametros de entrada son:123
+Sus variables invertidas son:132
+Suma de primeros 10 naturales: 45
+Porcentaje niños: 33.33333333333333
+Porcentaje niñas: 66.66666666666666
+ingrese un numero
+1
+ingrese un numero
+2
+ingrese un numero
+3
+ingrese un numero
+4
+ingrese un numero
+5
+ingrese un numero
+6
+ingrese un numero
+7
+ingrese un numero
+8
+ingrese un numero
+9
+ingrese un numero
+10
+La suma de los numeros es 55
+El promedio de los numeros es 5
+BUILD SUCCESSFUL (total time: 15 seconds)
